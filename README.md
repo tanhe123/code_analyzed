@@ -48,13 +48,11 @@
 
 
 ## 说明
-因为在windows下，配置pcre库未成功，所以不打算弄个windows版本了。只有linux版本.
+因为在windows下，配置pcre库未成功，所以不打算弄个windows版本了。只有linux版本.  
+其实呢， [这个软件](http://www.cnblogs.com/tanhehe/p/3284531.html)和[上一个](http://www.cnblogs.com/tanhehe/p/3279415.html) 是我目标软件中的两个功能。现在把他们单独实现。随着以后的学习，有能力时，会继续完成其他功能，然后整合在一起。  
 
+***源程序***：[http://tanhe123.ys168.com/](http://tanhe123.ys168.com/)  
 
-
-***源程序***： 
-
-***源代码***：
-
+***源代码***：[https://github.com/tanhe123/code_analyzed](https://github.com/tanhe123/code_analyzed)  
 
 ## 详情请参见我的博客: [https://github.com/tanhe123](http://www.cnblogs.com/tanhehe/p/3279411.html)
